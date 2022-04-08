@@ -435,57 +435,6 @@ curl -Ls https://raw.githubusercontent.com/lewagon/setup/master/check.rb > _.rb 
 :x: If not, **contact a teacher**.
 
 
-## Kitt
-
-:warning: If you have received an email from Le Wagon inviting you to sign up on Kitt (our learning platform), you can safely skip this step. Instead, please follow the instructions in the email you received if you haven't done so already.
-
-If you are unsure about what to do, you can follow [this link](https://kitt.lewagon.com/). If you are already logged in, you can safely skip this section. If you are not logged in, click on `Enter Kitt as a Student`. If you manage to login, you can safely skip this step. Otherwise ask a teacher whether you should have received an email or follow the instructions below.
-
-Register as a Wagon alumni by going to [kitt.lewagon.com/onboarding](http://kitt.lewagon.com/onboarding). Select your batch, sign in with GitHub and enter all your information.
-
-Your teacher will then validate that you are indeed part of the batch. You can ask him to do it as soon as you completed the registration form.
-
-Once the teacher has approved your profile, go to your email inbox. You should have 2 emails:
-
-- One from Slack, inviting you to the Le Wagon Alumni slack community (where you'll chat with your buddies and all the previous alumni). Click on **Join** and fill the information.
-- One from GitHub, inviting you to `lewagon` team. **Accept it** otherwise you won't be able to access the lecture slides.
-
-
-## Slack
-
-[Slack](https://slack.com/) is a communcation platform pretty popular in the tech industry.
-
-### Installation
-
-[Download the Slack app](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) and install it.
-
-:warning: If you are already using Slack in your browser, please download and install **the desktop app** which is fully featured.
-
-
-### Settings
-
-Launch the app and sign in to `lewagon-alumni` organization.
-
-Make sure you **upload a profile picture** :point_down:
-
-![How to upload a profile picture on Slack](images/slack_profile_picture.gif)
-
-The idea is that you'll have Slack open all day, so that you can share useful links / ask for help / decide where to go to lunch / etc.
-
-To ensure that everything is working fine for video calls, let's test your camera and microphone:
-- Open the Slack app
-- In any channel message bar type `/call --test` and press `Enter`
-- Click on the "Start test" green button
-
-![Check microphone and webcam with Slack](images/slack_call_test.png)
-
-:heavy_check_mark: When the test is finished, you should see green "Succeed" messages at least for your microphone and camera. :+1:
-
-:x: If not, **contact a teacher**.
-
-You can also install Slack app on your phone and sign in `lewagon-alumni`!
-
-
 ## macOS settings
 
 ### Security
@@ -540,9 +489,3 @@ You must pin:
 
 
 ## Setup completed!
-
-Your computer is now all set for [Le Wagon Web Development course](https://www.lewagon.com/web-development-course/full-time) :muscle: :clap:
-
-Enjoy the bootcamp, you will nail it :rocket:
-
-
